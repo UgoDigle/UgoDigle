@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖖 Hello world! <br>I'm Ugo Diglé, a french developer.<br><br>🌱 I'm currently learning fullstack! <br><br>💻 I look forward to participating in your projects!<br>
+🖖 Hello world! <br>I'm Ugo Diglé, a french developer.<br><br>🌱 I'm currently learning fullstack! <br><br>💻 I'm looking forward to participating in your projects!<br>
 
 
 ## 🌐 Socials:
